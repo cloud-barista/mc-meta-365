@@ -45,7 +45,9 @@ This repository is for **issues and feature requests** related to the service.
 
 ## 🚀 Alpha Test
 
-- Test Site: [http://223.130.147.212:8080](http://223.130.147.212:8080)  
+- Test Site:
+  - http://mc-meta.cloud-barista.org
+  - http://mc-insight.cloud-barista.org
 - ID/PW: Provided separately  
 
 - ※ Please use this repository's issue tracker for:
